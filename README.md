@@ -47,4 +47,4 @@ Output: ifmmp!xpsme
 
 ## 👨‍💻 Author
 
-Rasal Rahman
+A P Rasal Rahman
